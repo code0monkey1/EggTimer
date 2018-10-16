@@ -1,3 +1,3 @@
 # EggTimer
 
-<img src="images/eggTimer.gif" width="1000" >
+<img src="images/eggTimer.png" width="1000" >
