@@ -1,3 +1,3 @@
 # EggTimer
-![](eggGif.gif)
-//<img src="images/eggGif.gif" width="1000" >
+
+<img src="images/eggTimer.gif" width="1000" >
